@@ -319,8 +319,9 @@ TCGA-GBM-RNAseq-PyDESeq2/
 │
 ├── results/
 │   ├── DEG/
-│   ├── figures/
 │   └── pathways/
+│   
+├── Figures
 │
 ├── README.md
 └── requirements.txt
