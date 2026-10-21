@@ -362,7 +362,7 @@ The workflow is designed to support reproducible transcriptomic analysis using p
    - `01_CountMatrix.ipynb`
    - `02_QC.ipynb`
    - `03_PyDESeq2.ipynb`
-   - `04_PathwayAnalysis.ipynb` (when available)
+   - `04_PathwayAnalysis.ipynb`
 
 5. Review differential expression outputs and visualizations.
 6. Interpret findings in the context of cancer biology.
