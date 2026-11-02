@@ -281,7 +281,7 @@ Identify molecular pathways associated with transcriptional dysregulation in GBM
 
 ##  7. Biological Interpretation: Implications for Precision Oncology
 
-This transcriptomic analysis identified prominent cell-cycle, mesenchymal-associated, inflammatory, and chromatin-related transcriptional signatures in GBM tumors relative to normal tissue, alongside reduced representation of neuronal and synaptic gene expression programs.
+This transcriptomic analysis identified prominent **cell-cycle, mesenchymal-associated, inflammatory, and chromatin-related transcriptional signatures in GBM tumors** relative to normal tissue, alongside reduced representation of neuronal and synaptic gene expression programs.
 
 Glioblastoma is characterized by substantial molecular and cellular heterogeneity. Although **HDAC7 did not exhibit statistically significant differential expression** in the analyzed tumor-versus-normal cohort, this observation does not exclude its potential biological or therapeutic relevance.
 Rather, these findings motivate a precision oncology hypothesis: HDAC7-targeted therapeutic strategies may be more relevant to molecularly defined GBM subgroups exhibiting elevated HDAC7 expression or HDAC7-dependent biological programs.
