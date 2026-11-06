@@ -201,7 +201,7 @@ stat_res.summary()
 results = stat_res.results_df
 ```
 
-*The model assumes the count matrix is organized as genes × samples and the metadata is aligned with the sample identifiers. The design syntax depends on the installed PyDESeq2 version.*
+*The model assumes the count matrix is organized as genes × samples and the metadata is aligned with the sample identifiers.*
 
 ### Differential Expression Criteria
 
